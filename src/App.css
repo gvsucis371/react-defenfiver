@@ -1,0 +1,15 @@
+body{
+    background-color:lightskyblue;
+}
+p {
+    text-indent:5%;
+    font-weight:bold;
+    font-size: x-large;
+}
+ul {
+    background-color: darkgreen;
+    color: lightcyan;
+    font-weight: normal;
+    padding: 32px;
+    border-radius: 16px;
+}
